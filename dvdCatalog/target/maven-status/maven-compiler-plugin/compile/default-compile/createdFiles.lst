@@ -1,0 +1,9 @@
+com\as\dvdcatalog\controller\dvdCatalogController.class
+com\as\dvdcatalog\dao\dvdCatalogDaoException.class
+com\as\dvdcatalog\ui\dvdCatalogView.class
+com\as\dvdcatalog\dao\dvdCatalogDaoFileImpl.class
+com\as\dvdcatalog\ui\UserIO.class
+com\as\dvdcatalog\dao\dvdCatalogDao.class
+com\as\dvdcatalog\dto\dvd.class
+com\as\dvdcatalog\app.class
+com\as\dvdcatalog\ui\UserIOConsoleImpl.class
